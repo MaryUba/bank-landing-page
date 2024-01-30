@@ -13,3 +13,9 @@ menuButton.addEventListener("click", () => {
     menuButton.setAttribute("aria-expanded", true);
   }
 });
+
+function openFormInNewTab() {
+  const formUrl = "http://127.0.0.1:5500/Week2/Signup-form/form.html";
+
+  window.open(formUrl, '_blank');
+}
