@@ -22,7 +22,7 @@ Users are able to:
 - View the optimal layout for the site depending on their device's screen size
 - See hover states for all interactive elements on the page
 - In mobile view, there is a toggle button on the navigation that has a dropdown of options.
-- Fill out their personal details in a form when the "Request invite" 
+- Fill out their personal details in a form when the "Request invite" button is clicked
 
 ### Screenshot
 #### Desktop view
