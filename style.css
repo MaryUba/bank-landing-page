@@ -190,7 +190,6 @@ h3 {
 }
 
 @media (max-width: 1000px) {
-  /* h1, */
   h2 {
     text-align: center;
   }
@@ -317,8 +316,6 @@ header {
 }
 
 .hero-description {
-  /* grid-column: 1; */
-  /* padding-block: 8rem; */
   width: 75%;
   display: flex;
   flex-direction: column;
@@ -399,11 +396,11 @@ header {
   }
 }
 
-/* @media (min-width: 750px) and (max-width: 900px) {
+@media (min-width: 750px) and (max-width: 900px) {
   .mockups {
     top: -40%;
   }
-} */
+}
 
 @media (min-width: 900px) and (max-width: 1000px) {
   .showcase {
