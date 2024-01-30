@@ -485,6 +485,12 @@ header {
   color: var(--neutral-clr-600);
   font-size: 0.8em;
 }
+a{
+  color: var(--neutral-clr-700);
+}
+a:hover {
+  color: var(--primary-clr-400);
+}
 
 @media (max-width: 1000px) {
   .articles-section {
@@ -503,8 +509,7 @@ header {
 }
 
 .footer-icons > img {
-  filter: invert(100%) sepia(100%) saturate(0%) hue-rotate(131deg)
-    brightness(107%) contrast(103%);
+  filter: invert(100%) sepia(100%) saturate(0%) hue-rotate(131deg) brightness(107%) contrast(103%);
 }
 
 .socials {
@@ -615,5 +620,5 @@ header {
 .attribution { 
     font-size: 0.7rem; 
     text-align: center;
-    color: var(--Grayish-Blue); 
+    color: var(--neutral-clr-600); 
 }
