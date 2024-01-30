@@ -15,7 +15,7 @@ menuButton.addEventListener("click", () => {
 });
 
 function openFormInNewTab() {
-  const formUrl = "http://127.0.0.1:5500/Week2/Signup-form/form.html";
+  const formUrl = "https://maryuba.github.io/form/";
 
   window.open(formUrl, '_blank');
 }
